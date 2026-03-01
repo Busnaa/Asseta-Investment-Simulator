@@ -16,23 +16,23 @@ Umožnit uživatelům nakupovat, spravovat a sledovat virtuální nemovitosti, k
 #### Registrace a profil uživatele
  • Uživatelé si mohou vytvořit profil a nastavit počáteční investiční kapitál.
  • Historie investic, aktuální zůstatek, portfolio nemovitostí.
-### Nákup a prodej nemovitostí
+#### Nákup a prodej nemovitostí
  • Uživatelé mohou vybírat z různých typů nemovitostí (např. byty, domy, komerční budovy).
  • Každá nemovitost má svoji cenu, potenciální měsíční výnos z pronájmu, výdaje na údržbu, daně a potenciál pro růst hodnoty.
  • Ceny nemovitostí se mění v závislosti na různých faktorech (např. inflace, trh, lokalita).
-### Správa nemovitostí
+#### Správa nemovitostí
  •Možnost investic do údržby nebo renovace nemovitostí, které mohou zvýšit jejich hodnotu nebo výnosy z pronájmu.
  • Uživatelé mohou rozhodnout, jak často a kolik chtějí investovat do údržby, což ovlivňuje celkovou hodnotu nemovitosti.
-### Simulace tržních podmínek
+#### Simulace tržních podmínek
  • Ekonomické podmínky (např. růst nebo pokles trhu) budou ovlivňovat ceny a hodnotu nemovitostí.
  • Možnost simulovat změnu tržní hodnoty na základě historických dat nebo náhodně generovaných scénářů (např. ekonomické krize, vysoká inflace).
-### Výpočet výnosnosti investice
+#### Výpočet výnosnosti investice
  • Výpočet celkového výnosu z pronájmů, růstu tržní hodnoty, zohlednění daní a dalších výdajů.
  • Uživatel bude moci sledovat, jak jeho investice „vydělávají“ v průběhu času a analyzovat celkový výnos.
-### Udržovací náklady a daně
+#### Udržovací náklady a daně
  • Každá nemovitost bude mít různé náklady na údržbu a daně, které budou uživateli pravidelně strhávány z jeho virtuálního účtu.
  • Uživatelé budou muset plánovat své finance tak, aby dokázali pokrýt náklady.
-### Reporty a statistiky
+#### Reporty a statistiky
  • Přehled investičního portfolia, měsíční a roční přehledy výnosů.
  • Grafy, které zobrazují růst nebo pokles hodnoty nemovitostí, výnosy z pronájmu a další důležité statistiky.
 
