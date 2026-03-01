@@ -1,18 +1,17 @@
-# Asseta
 
-Real Estate Investment Simulator (Simulátor investic do nemovitostí)
+# Asseta Investment Simulator (Simulátor investic do nemovitostí)
 
-Cílový uživatel:
+## Cílový uživatel:
 
- 1.Studenti a začátečníci v investování - Mohou si vyzkoušet, jak vypadá investování do nemovitostí.
- 2.Programátoři nebo analytici - Může sloužit jako výukový materiál.
- 3.Odborníci na realitní trh - Mohou simulovat různá investiční rozhodnutí.
+ 1. Studenti a začátečníci v investování - Mohou si vyzkoušet, jak vypadá investování do nemovitostí.
+ 2. Programátoři nebo analytici - Může sloužit jako výukový materiál.
+ 3. Odborníci na realitní trh - Mohou simulovat různá investiční rozhodnutí.
 
-Cíl aplikace:
+## Cíl aplikace:
 
 Umožnit uživatelům nakupovat, spravovat a sledovat virtuální nemovitosti, které se chovají podobně jako reálné investice, tedy s faktory jako je růst tržní hodnoty, výdaje na údržbu a daně. Uživatelé by mohli zkoumat, jak jejich investice reagují na různé faktory, jako je změna ekonomických podmínek, daně, růst tržní hodnoty, nebo kolísání výnosů z pronájmů.
 
-Hlavní funkce aplikace:
+## Hlavní funkce aplikace:
 
 1.Registrace a profil uživatele
  • Uživatelé si mohou vytvořit profil a nastavit počáteční investiční kapitál.
@@ -37,7 +36,7 @@ Hlavní funkce aplikace:
  • Přehled investičního portfolia, měsíční a roční přehledy výnosů.
  • Grafy, které zobrazují růst nebo pokles hodnoty nemovitostí, výnosy z pronájmu a další důležité statistiky.
 
-Technologie a nástroje:
+## Technologie a nástroje:
 
  • Frontend: React nebo Vue.js pro uživatelské rozhraní.
  • Backend: Node.js, Python (např. Flask nebo Django).
