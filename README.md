@@ -13,7 +13,7 @@ Umožnit uživatelům nakupovat, spravovat a sledovat virtuální nemovitosti, k
 
 ## Hlavní funkce aplikace:
 
-### Registrace a profil uživatele
+#### Registrace a profil uživatele
  • Uživatelé si mohou vytvořit profil a nastavit počáteční investiční kapitál.
  • Historie investic, aktuální zůstatek, portfolio nemovitostí.
 ### Nákup a prodej nemovitostí
